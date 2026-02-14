@@ -26,7 +26,7 @@
   <a href="https://doriansgt.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-doriansgt.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=white&color=ff5722" alt="Website Badge"/>
   </a>
-  <a href="www.linkedin.com/in/dorian-garcía-toruño-a09402350" target="_blank">
+  <a href="https://www.linkedin.com/in/dorian-garc%C3%ADa-toru%C3%B1o-a09402350/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
