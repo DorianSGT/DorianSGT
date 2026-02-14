@@ -46,7 +46,7 @@ Armamento digital que utilizo para administración de sistemas, despliegue de se
 
 <div align="center">
   <br/>
-  <img src="https://i.imgur.com/AeK1U0h.gif" width="100%" alt="Terminal Hacking GIF" style="border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/DorianSGT/DorianSGT/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake game" />
 </div>
 
 
